@@ -1,0 +1,12 @@
+Chapter 2 Programming Challenges: #17 page#84.The output of your program: 
+
+
+The total amount paid for the stock alone is 26250 dollars.
+The amount of commission is only 525 dollars.
+The total amount paid is  26775 dollars.
+
+
+Your output should look exactly like this. Do not worry about number formatting, use defaults.
+
+Make sure to follow programming standards.
+***** Discussion about programming assignment is allowed, but any copying of parts of the code or homework solutions will resut in a 0 grade for all involved parties and everyone involved will be immediately reported to the authorities. This violates UMSL plagiarism regulations*****

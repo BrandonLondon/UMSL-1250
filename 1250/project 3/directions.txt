@@ -1,0 +1,4 @@
+Programming Challenges #18, page 147.  In addition,  your program should also ask user her/his full name ( first, and last name) and display the following message : ( if the user's name is John Doe and amount in savings is $1043.34)
+John Doe has a total amount of $ 1043.34 in the savings account.
+Make sure to follow programming standards.
+***** Discussion about programming assignment is allowed, but any copying of parts of the code or homework solutions will resut in a 0 grade for all involved parties and everyone involved will be immediately reported to the authorities. This violates UMSL plagiarism regulations*****

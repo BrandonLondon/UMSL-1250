@@ -1,0 +1,5 @@
+Chapter 6: Programming Challenge 24 page #373
+Make sure to have one function displaying the menu (scissors, paper, or rock), reading the choice, validating it and rereading if needed, and then returning the valid choice as a number 1-3.
+Make sure to have another function to which you send what the user selected and what computer generated, and the function will declare the winner printing the result.
+Make sure to use srand()
+Also for extra 10% you may put a loop for the program to keep working on multiple games until the user enters a quit choice on the menu (the same menu where the choice is entered).

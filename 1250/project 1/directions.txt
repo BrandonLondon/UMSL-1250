@@ -1,0 +1,7 @@
+This project is only to practice typing, compiling and running the program on Eclipse C++ perspective and to see if we can submit project through canvas site with a simple code from textbook.
+
+Please type the Program 2-1 at page # 28 in our textbook using Eclipse C++ perspective, if there is no problem, submit it through Project1 on mygateway site.
+
+P.S. 1. This project is only 10 points since it is an orientation/practice for Eclipse and submission process.
+
+       2. Make it fun; display information about yourself, expectations from this course, your possible CS background.

@@ -1,0 +1,4 @@
+Chapter 4 Programming Challenge #25 Mobile Service Provider,  page# 226. (Please use switch statement)
+
+Make sure to follow programming standards.
+***** Discussion about programming assignment is allowed, but any copying of parts of the code or homework solutions will resut in a 0 grade for all involved parties and everyone involved will be immediately reported to the authorities. This violates UMSL plagiarism regulations*****

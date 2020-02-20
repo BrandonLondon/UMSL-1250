@@ -1,0 +1,21 @@
+The attached file contains a long list of random numbers (Random.txt).
+
+1. Copy the file to your hard drive.
+
+2. Then write a program that asks user to enter the file name to open and validates that the file is successfully open.
+
+3. Once the user opens the file (Random.txt) successfully, your program should calculate the following:(The output should be in the following format)
+
+          A) The number of numbers in the file:
+
+          B) The number of  even numbers in the file:          
+
+          C) The  number of  odd numbers in the file:
+
+          D) The sum of all the numbers in the file:
+
+          E) The average of all the numbers in the file:
+
+
+Make sure to follow programming standards.
+***** Discussion about programming assignment is allowed, but any copying of parts of the code or homework solutions will resut in a 0 grade for all involved parties and everyone involved will be immediately reported to the authorities. This violates UMSL plagiarism regulations*****

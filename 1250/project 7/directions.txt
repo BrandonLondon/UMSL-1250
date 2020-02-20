@@ -1,0 +1,15 @@
+Write a program that will read data from the file "p6.dat". The file (that you will create) always contains 15 test scores (whole numbers between 0 and 100). The test scores are scores for 5 students taking 3 tests, and are arranged, in the file, by the student - that is the first 3 numbers are the test scores for test 1, 2, and 3 for the first student, etc.
+The program will print:
+- average per student (5 averages), on a single line, with 2 decimals
+- average per test (3 averages), on a single line, with 2 decimals
+- overall best score on a single line
+- how many scores were As (out of the 15, how many were at least 90) on a single line
+
+To simplify the code, no validations are needed. That is, assume the file is successfully opened, and that all data are 0-100, and that there are exactly 15 numbers in the file.
+Note that the program reads the filename
+
+ 
+
+
+Make sure to follow programming standards.
+***** Discussion about programming assignment is allowed, but any copying of parts of the code or homework solutions will result in a 0 grade for all involved parties and everyone involved will be immediately reported to the authorities. This violates UMSL plagiarism regulations*****
